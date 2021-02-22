@@ -1,0 +1,2 @@
+include ':app',':bottom_navigation'
+rootProject.name = "BubbleBottomNavigation"
